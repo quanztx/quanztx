@@ -3,7 +3,7 @@
 
 </h1>
     🌱Welcome! Currently, I am  a 2nd-year Phd student at THU. 
-	 💞️ My research lies at the intersection of “Robotics” and “Magnetic material” – with a special focus on "Tactile Sensing", "Signal Processing". If you have any questions about my projects, please feel free to send me an email(quanzhentan@gmail.com). Check my homepage(https://quanztx.github.io/) to learn more about me.<br>
+	 💞️ My research lies at the intersection of “Robotics” and “Magnetic material” – with a special focus on "Tactile Sensing", "Signal Processing". If you have any questions about my projects, please feel free to send me an email. <br>
 <br>
 
 - Smart Sensing and Robotics (SSR) Group 
