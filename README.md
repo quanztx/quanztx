@@ -1,21 +1,15 @@
-- 👋 Hi, I’m Zhentan Quan
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning signal processing and Federated Learning
-- 💞️ I’m working on Energy harvesting and Robotics
-- 📫 Contact me： qzt21@mails.tsinghua.edu.cn
-- Smart Sensing and Robotics (SSR) Group 
-- Internet of Things and Societal Cyber Physical Systems Lab (Lab-2c)
-- Shenzhen, Guangdong 518055 
-
-
 <h1 align="center">
 	👋 Hi, I'm <a href="https://quanztx.github.io/" target="_blank">Zhentan Quan (全振潭)</a> 👋<br>
 
 </h1>
-Welcome! Currently, I am  a 2nd-year Phd student at THU. My research lies at the intersection of “Robotics” and “Magnetic material” – with a special focus on "Tactile Sensing", "Signal Processing". If you have any questions about my projects, please feel free to send me an email(quanzhentan@gmail.com). Check my homepage(https://quanztx.github.io/) to learn more about me.<br>
+    🌱Welcome! Currently, I am  a 2nd-year Phd student at THU. 
+	 💞️ My research lies at the intersection of “Robotics” and “Magnetic material” – with a special focus on "Tactile Sensing", "Signal Processing". If you have any questions about my projects, please feel free to send me an email(quanzhentan@gmail.com). Check my homepage(https://quanztx.github.io/) to learn more about me.<br>
 <br>
 
-<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
+- Smart Sensing and Robotics (SSR) Group 
+- Internet of Things and Societal Cyber Physical Systems Lab
+- 
+<p><i style="color: red; display: inline;"> 📫 Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
 # Website
