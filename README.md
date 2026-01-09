@@ -8,7 +8,7 @@
 
 - Smart Sensing and Robotics (SSR) Group 
 - Internet of Things and Societal Cyber Physical Systems Lab
-- 
+  
 <p><i style="color: red; display: inline;"> 📫 Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 
