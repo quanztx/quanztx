@@ -2,7 +2,7 @@
 	👋 Hi, I'm <a href="https://quanztx.github.io/" target="_blank">Zhentan Quan (全振潭)</a> 👋<br>
 
 </h1>
-    🌱Welcome! Currently, I am  a 2nd-year Phd student at THU. 
+    🌱Welcome! Currently, I am  a 3rd-year Phd student at THU. 
 	 💞️ My research lies at the intersection of “Robotics” and “Magnetic material” – with a special focus on "Tactile Sensing", "Signal Processing". If you have any questions about my projects, please feel free to send me an email. <br>
 <br>
 
